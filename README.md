@@ -1,4 +1,4 @@
-h1>Full Stack Loop Cinema Website with Admin Dashboard</h1>
+<h1>Full Stack Loop Cinema Website with Admin Dashboard</h1>
 <h2>React.js, Node.js, Express.js, MySQL, REST API, GraphQL, Sequelize</h2>
 
 ## Overview
